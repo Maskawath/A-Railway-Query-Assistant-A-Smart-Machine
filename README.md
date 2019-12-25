@@ -26,4 +26,4 @@ My objective was to build a system that can continuously provide information sys
 *	 Java Swing. 
 *	IDE: Netbeans, Notepad++.
 
-## 6.  Sample Image:
+## 7.  Sample Image:
