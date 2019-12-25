@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="Lab_project/src"/>
-	<classpathentry kind="lib" path="Lab_project/dist/Lab_project.jar"/>
-	<classpathentry kind="lib" path="Lab_project/dist/lib/jpl.jar"/>
-	<classpathentry kind="output" path="Lab_project/build/classes"/>
-</classpath>
