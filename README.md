@@ -27,4 +27,4 @@ My objective was to build a system that can continuously provide information sys
 *	IDE: Netbeans, Notepad++.
 
 ## 7.  Sample Image:
-![](immages/capture.jpg)
+![](immages/github-capture.jpg)
